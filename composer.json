@@ -1,5 +1,5 @@
 {
-    "name": "dinandmentink/nova-markdown",
+    "name": "paulvl/nv-mrkdwn",
     "description": "A Laravel Nova Markdown Field.",
     "keywords": [
         "laravel",
